@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/addons_stock/.idea/addons_stock.iml" filepath="$PROJECT_DIR$/addons_stock/.idea/addons_stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/custom.iml" filepath="$PROJECT_DIR$/.idea/custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l10n_tn_wct/.idea/l10n_tn_wct.iml" filepath="$PROJECT_DIR$/l10n_tn_wct/.idea/l10n_tn_wct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../odoo-server/.idea/odoo-server.iml" filepath="$PROJECT_DIR$/../odoo-server/.idea/odoo-server.iml" />
+    </modules>
+  </component>
+</project>
