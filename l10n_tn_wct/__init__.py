@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
-
-# Copyright (c) 2008 JAILLET Simon - CrysaLEAD - www.crysalead.fr
-
+##############################################################################
+#
+#    ODOO, Open Source Management Solution
+#    Copyright (C) 2016 Steigend IT Solutions
+#    For more details, check COPYRIGHT and LICENSE files
+#
+##############################################################################
+import account_account_class
